@@ -1,0 +1,29 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "colorize.colorized_colors": [
+
+
+        "BROWSERS_COLORS",
+        "HEXA",
+        "RGB",
+        "HSL"
+    ],
+    "colorize.languages": [
+        
+        "typescript",
+        "javascript",
+        "css",
+        "scss"
+    ],
+    "colorize.colorized_variables": [
+
+        "CSS"
+    ],
+    "prettier.singleQuote": true
+}
